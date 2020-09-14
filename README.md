@@ -2,7 +2,7 @@
 
 A JavaFX project using a FMXL controller and CSS style sheet. 
 
-This project was to demonstrate an understanding of Data Structures and Algorithms. It uses a Depth First Search (DFS) to natigate the graph and find the shortest route between two chosen vertices, In this case characters relationships in Game of Thrones. 
+This project was to demonstrate an understanding of Data Structures and Algorithms. It uses a Depth First Search (DFS) to navigate the graph and find the shortest route between two chosen vertices, In this case characters relationships in Game of Thrones. 
 
 The Application makes use of OBJECTS, LISTS, HASHMAP, SWITCH, error handling with TRY CATCH and EXCEPTIONS aswell as input and output streams for reading and writing data. 
 
